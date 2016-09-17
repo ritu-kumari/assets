@@ -1,0 +1,3 @@
+# assets
+
+hosts assets
